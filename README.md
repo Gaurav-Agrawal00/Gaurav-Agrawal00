@@ -107,9 +107,9 @@ HTML • CSS • JavaScript
 
 ---
 
-# 🐍 Contribution Snake
+<!-- # 🐍 Contribution Snake
 
-<!-- <p align="center">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/Gaurav-Agrawal00/Gaurav-Agrawal00/output/github-contribution-grid-snake-dark.svg"/>
 
